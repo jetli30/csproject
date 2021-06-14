@@ -9,3 +9,5 @@ compared them to the piece of text using a counter and for loops. After that, I 
 this list of the frequencies along with the list of common words to make a bar graph.</p>
 
 ![wordfrequencybar](https://user-images.githubusercontent.com/78500448/121921458-0490dd80-cd07-11eb-8485-92edfa939cb6.PNG) 
+
+![csprojpolygon](https://user-images.githubusercontent.com/78500448/121922427-f68f8c80-cd07-11eb-8ed7-21e0596a436d.PNG)
