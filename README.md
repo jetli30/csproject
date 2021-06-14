@@ -1,4 +1,4 @@
-# Bar Graph
+# Bar Graph and Polygon
 <head>
 	<link href = "mystyle.css" rel="stylesheet">
 </head>
