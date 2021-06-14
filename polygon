@@ -1,0 +1,10 @@
+<head>
+	<title> Constructed Polygon </title>
+	<link href = "mystyle.css" rel="stylesheet">
+</head>
+
+<p> Here is a polygon constructed from word frequencies. TO get this polygon, I first
+calculated the average of the word frequencies. Then, using this number, I calculated
+the sum of the internal angles of the shape and then divided this by the number of angles
+to find the measure of each individual angle. Now, I could use turtle to construct a regular
+polygon since I knew how many sides the shape will have and the measure of each angle. </p>
