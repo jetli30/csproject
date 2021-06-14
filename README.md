@@ -1,6 +1,5 @@
 # Bar Graph
 <head>
-	<title> Bar Graph </title>
 	<link href = "mystyle.css" rel="stylesheet">
 </head>
 
